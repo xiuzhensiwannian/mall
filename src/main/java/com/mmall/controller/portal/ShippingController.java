@@ -22,7 +22,7 @@ import javax.servlet.http.HttpSession;
  */
 
 @Controller
-@RequestMapping("shipping")
+@RequestMapping("/shipping/")
 public class ShippingController {
 
     @Autowired

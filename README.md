@@ -1,4 +1,3 @@
-mmall 
 ![](https://img.shields.io/badge/license-MIT-blue)
 ![](https://img.shields.io/badge/author-xiuzhensiwannian-green)
 ![](https://img.shields.io/badge/language-java-red)

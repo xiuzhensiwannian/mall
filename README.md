@@ -4,7 +4,9 @@
 ![](https://img.shields.io/badge/author-xiuzhensiwannian-green)
 ![](https://img.shields.io/badge/language-java-red)
 
-<center><img src="https://github.com/xiuzhensiwannian/mall/blob/master/mall.png"></center>
+<div align="center">
+  <img src="https://github.com/xiuzhensiwannian/mall/blob/master/mall.png"></center>
+</div>
 
 ## [0 简介](#head1)
 

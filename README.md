@@ -1,7 +1,11 @@
-[0 简介](#0 简介)
+[0 简介](#0 简介)   
+
 [1 数据表初始化](#1 数据表初始化)
+
 [1.1 user表中的唯一索引username与主键索引id](#1.1 user表中的唯一索引username与主键索引id)
+
 [1.2 orderitem表中的普通索引](#1.2 orderitem表中的普通索引)
+
 [1.3 orderitem表的userid列的作用](#1.3 orderitem表的userid列的作用)
 
 # 0 简介 

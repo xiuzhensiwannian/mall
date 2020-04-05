@@ -1,3 +1,9 @@
+https://img.shields.io/badge/license-MIT-blue
+https://img.shields.io/badge/author-xiuzhensiwannian-green
+https://img.shields.io/badge/language-java-red
+
+https://www.canva.cn/design/DAD4jWGmi0o/18cgi11p74kbcVsI3uL3dQ/view?utm_content=DAD4jWGmi0o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 # [0 简介](#head1)
 
 # [1 数据表初始化](#head2)

@@ -9,6 +9,7 @@
 <div align="center">
   <img src="https://github.com/xiuzhensiwannian/mall/blob/master/mall.png"></center>
 </div>
+
 ## [0 简介](#head1)
 
 ## [1 数据表初始化](#head2)

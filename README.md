@@ -1,8 +1,10 @@
+# 电商项目happymmall
+
 ![](https://img.shields.io/badge/license-MIT-blue)
 ![](https://img.shields.io/badge/author-xiuzhensiwannian-green)
 ![](https://img.shields.io/badge/language-java-red)
 
-<img src="https://github.com/xiuzhensiwannian/mall/blob/master/mall.png">
+<img src="https://github.com/xiuzhensiwannian/mall/blob/master/mall.png" align="center">
 
 ## [0 简介](#head1)
 

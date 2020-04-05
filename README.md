@@ -1,9 +1,9 @@
 # 电商项目happymmall
 
 <div align="center">
-![](https://img.shields.io/badge/license-MIT-blue)
-![](https://img.shields.io/badge/author-xiuzhensiwannian-green)
-![](https://img.shields.io/badge/language-java-red)
+ <img src="https://img.shields.io/badge/license-MIT-blue">
+ <img src="https://img.shields.io/badge/author-xiuzhensiwannian-green">
+ <img src="https://img.shields.io/badge/language-java-red">
 </div>
 
 <div align="center">

@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/author-xiuzhensiwannian-green)
 ![](https://img.shields.io/badge/language-java-red)
 
-<img src="https://www.canva.cn/design/DAD4jYGuqNw/YPyUwMf8C8p0xxw7vQFplw/view?utm_content=DAD4jYGuqNw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+<img src="https://github.com/xiuzhensiwannian/mall/blob/master/mall.png">
 
 ## [0 简介](#head1)
 

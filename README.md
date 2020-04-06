@@ -1,5 +1,3 @@
-# 电商项目mall
-
 <div align="center">
  <img src="https://img.shields.io/badge/license-MIT-blue">
  <img src="https://img.shields.io/badge/author-xiuzhensiwannian-green">
@@ -14,7 +12,7 @@
 
 ## [1 数据表初始化](#head2)
 
-### [1.1 user表中的唯一索引username与主键索引id](#head3)
+### > [1.1 user表中的唯一索引username与主键索引id](#head3)
 
 ### [1.2 orderitem表中的普通索引](#head4)
 

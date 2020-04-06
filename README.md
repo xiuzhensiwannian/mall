@@ -22,7 +22,7 @@ JDK版本：jdk8 </br>
 mysql：8.0.15 </br>
 tomcat：9.0.27 </br>
 
-本文总结了电商项目中涉及到的java开发相关知识，将平时知识点与项目coding过程联系起来。一方面，在一刷时候囫囵吞枣视频很多地方没太搞懂，这次希望通过总结基础知识加深对项目理解。同时通过笔记的形式写出来，也可以加深对于基础知识的理解。最后系统的梳理项目也为了以后面试作准备。</br>
+本文总结了电商项目中涉及到的java开发相关知识，将平时知识点与项目coding过程联系起来。一方面，在一刷时候囫囵吞枣视频很多地方没太搞懂，这次希望通过总结基础知识加深对项目理解。同时通过笔记的形式写出来，也可以加深对于基础知识的理解。最后系统的梳理项目也为了以后面试作准备。
 
 ## <span id="head2">1 数据表初始化</span>
 
@@ -32,7 +32,9 @@ tomcat：9.0.27 </br>
 ### <span id="head4">1.2 orderitem表中的普通索引</span>
 orderitem表中有一个普通索引，orderno，这个索引可以加速查找orderno的速度
 如果你还不知道什么是索引，请看这2篇文章，写的很好
+
 https://www.cnblogs.com/jianmingyuan/p/6740090.html
+
 https://www.cnblogs.com/fengqiang626/archive/2019/09/04/11459434.html
 
 ### <span id="head5">1.3 orderitem表的userid列的作用</span>

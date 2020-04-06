@@ -1,4 +1,4 @@
-# 电商项目happymmall
+# 电商项目mall
 
 <div align="center">
  <img src="https://img.shields.io/badge/license-MIT-blue">
@@ -9,11 +9,6 @@
 <div align="center">
   <img src="https://github.com/xiuzhensiwannian/mall/blob/master/mall.png"></center>
 </div>
-
-<!-- GFM-TOC -->
-* [0 简介](#0 简介)
-* [1 数据表初始化](#1 数据表初始)
-<!-- GFM-TOC -->
 
 ## [0 简介](#head1)
 

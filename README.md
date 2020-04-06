@@ -10,6 +10,12 @@
   <img src="https://github.com/xiuzhensiwannian/mall/blob/master/mall.png"></center>
 </div>
 
+<!-- GFM-TOC -->
+* [0 简介](#0 简介)
+    
+* [1 数据表初始化](#1 数据表初始)
+<!-- GFM-TOC -->
+
 ## [0 简介](#head1)
 
 ## [1 数据表初始化](#head2)

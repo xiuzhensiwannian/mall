@@ -8,11 +8,17 @@
   <img src="https://github.com/xiuzhensiwannian/mall/blob/master/mall.png"></center>
 </div>
 
+- [0 简介](#head1)
+- [1 数据表初始化](#head2)
+	- [1.1 user表中的唯一索引username与主键索引id](#head3)
+	- [1.2 orderitem表中的普通索引](#head4)
+	- [1.3 orderitem表的userid列的作用](#head5)
+ 
 ## [0 简介](#head1)
 
 ## [1 数据表初始化](#head2)
 
-### > [1.1 user表中的唯一索引username与主键索引id](#head3)
+### [1.1 user表中的唯一索引username与主键索引id](#head3)
 
 ### [1.2 orderitem表中的普通索引](#head4)
 
